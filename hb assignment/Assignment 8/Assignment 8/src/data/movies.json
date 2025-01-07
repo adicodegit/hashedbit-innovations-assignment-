@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Life of Pi",
+        "description": "\"Life of Pi\" is a remarkable novel by Yann Martel, which was also adapted into a visually stunning film directed by Ang Lee. The story follows Pi Patel, a young boy from India, who survives a shipwreck in the Pacific Ocean and ends up on a lifeboat with a Bengal tiger named Richard Parker.",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9227710_p_v10_ai.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Interstellar",
+        "description": "\"Interstellar\" is a science fiction film directed by Christopher Nolan. The film follows a group of astronauts who travel through a wormhole near Saturn in search of a new home for humanity.",
+        "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10543523_p_v8_as.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Titanic",
+        "description": "\"Titanic\" is a romantic drama film directed by James Cameron. The film is based on the real-life sinking of the RMS Titanic and follows the love story of Jack and Rose, two passengers from different social classes.",
+        "image": "https://i.ebayimg.com/images/g/2JYAAOSwwi9j2ptg/s-l1200.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Iron Man",
+        "description": "\"Iron Man\" is a superhero film based on the Marvel Comics character of the same name. Directed by Jon Favreau, the film follows Tony Stark, a billionaire industrialist and genius inventor, who builds a high-tech suit of armor to become the superhero Iron Man.",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_.jpg"
+    }
+]

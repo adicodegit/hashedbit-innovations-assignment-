@@ -1,0 +1,50 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.complete {
+    text-decoration: line-through;
+    color: #757575;
+}
+
+#todo-app {
+    background-color: #1e1e1e;
+    max-width: 25rem;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+.header .title {
+    color: #03dac6; /* Change the color to make it more visible */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a shadow for better visibility */
+}
+
+.button.is-primary {
+    background-color: #6200ea;
+    border-color: #6200ea;
+    color: #fff;
+}
+
+.button.is-danger {
+    background-color: #b00020;
+    border-color: #b00020;
+    color: #fff;
+}
+
+.button.is-success {
+    background-color: #03dac6;
+    border-color: #03dac6;
+    color: #000;
+}

@@ -1,0 +1,50 @@
+.sidebar {
+    width: 300px;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+
+.newsletter-cta {
+    background-color: var(--background-secondary);
+    margin-top: 50%;
+    padding: 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+
+    text-align: center;
+
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.newsletter-cta__title {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+
+.newsletter-cta__description {
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.newsletter-cta__form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.newsletter-cta__form input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.newsletter-cta__form__submit {
+    padding: 0.5rem;
+    background-color: #f8aa3c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
